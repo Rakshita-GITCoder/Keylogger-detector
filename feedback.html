@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback</title>
+    <link rel="stylesheet" href="feedback.css">
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+<div class="header">
+<form onsubmit="sendEmail(); reset(); return false;">
+    <div class="row">
+        <div class="input-group">
+            <input type="text" id="number" required>
+            <label for="name"><ion-icon name="person-sharp"></ion-icon></ion-icon>Username</label>
+        </div>
+        <div class="input-group">
+            <input type="text" id="number" required>
+            <label for="number"><ion-icon name="star"></ion-icon></ion-icon>Rating</label>
+        </div>
+    </div>
+        <div class="input-group">
+            <input type="text" id="email" required>
+            <label for="email"><ion-icon name="mail-sharp"></ion-icon></ion-icon>Email ID</label>
+        </div>
+        <div class="input-group">
+            <textarea id="message" rows="8" required></textarea>
+            <label for="message"><ion-icon name="chatbubbles-sharp"></ion-icon></ion-icon>Your Message</label>
+        </div>
+        <button type="submit">SUBMIT<ion-icon name="paper-plane-sharp"></ion-icon></button>
+        
+ </form>
+</div>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script>
+  function sendEmail(){
+    Email.send({
+      Host : "smtp.gmail.com",
+      Username : "ranu7906sharma@gmail.com",
+      Password : "9868288924",
+      To : 'ranu7906sharma@gmail.com',
+      From : document.getElementById("email").value,
+      Subject : "New contact form enquiry",
+      Body : "And this is the body"
+}).then(
+  message => alert(message)
+);
+  }
+</script>
+    
+</body>
+</html>

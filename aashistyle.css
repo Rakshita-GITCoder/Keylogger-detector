@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8536787b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(95, 19, 95);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid rgb(175, 94, 161);
+    border-radius: 5px;
+    margin: 10px 0;
+}
+.edit{
+    color: rgb(255, 255, 255);
+}
+.edit2{
+    color: rgb(254, 254, 254);
+}

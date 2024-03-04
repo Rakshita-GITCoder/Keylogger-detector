@@ -1,0 +1,281 @@
+Previous Speed: 
+Current Speed: 0
+Speed Difference: 
+Keylogs: 
+-----------------------
+Previous Speed: 
+Current Speed: 161.75860638739
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j
+-----------------------
+Previous Speed: 
+Current Speed: 140.33825116949
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j
+-----------------------
+Previous Speed: 
+Current Speed: 138.43733613005
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r
+-----------------------
+Previous Speed: 
+Current Speed: 131.03037522335
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r
+-----------------------
+Previous Speed: 
+Current Speed: 76.067538754106
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r
+-----------------------
+Previous Speed: 
+Current Speed: 46.812141899305
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r, b, j, k, b, j, v, k, h, v, h
+-----------------------
+Previous Speed: 
+Current Speed: 46.159394157952
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r, b, j, k, b, j, v, k, h, v, h
+-----------------------
+Previous Speed: 
+Current Speed: 15.470396751217
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r, b, j, k, b, j, v, k, h, v, h
+-----------------------
+Previous Speed: 
+Current Speed: 15.352753500348
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r, b, j, k, b, j, v, k, h, v, h
+-----------------------
+Previous Speed: 
+Current Speed: 3.8375899934841
+Speed Difference: 
+Keylogs: h, j, c, h, g, c, j, g, g, c, g, g, j, f, g, y, y, t, d, r, x, r, b, j, k, b, j, v, k, h, v, h
+-----------------------
+Previous Speed: 
+Current Speed: 101.0441226002
+Speed Difference: 
+Keylogs: j, k, b, j, d
+-----------------------
+Previous Speed: 
+Current Speed: 147.80925567482
+Speed Difference: 
+Keylogs: j, k, b, j, d, f, d, k, h, g, f, f, g, g
+-----------------------
+Previous Speed: 
+Current Speed: 149.52865965977
+Speed Difference: 
+Keylogs: j, k, b, j, d, f, d, k, h, g, f, f, g, g, b, f, b, b, n, v, k, l, d
+-----------------------
+Previous Speed: 
+Current Speed: 135.59988208706
+Speed Difference: 
+Keylogs: j, k, b, j, d, f, d, k, h, g, f, f, g, g, b, f, b, b, n, v, k, l, d
+-----------------------
+Previous Speed: 
+Current Speed: 141.11006585136
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b
+-----------------------
+Previous Speed: 
+Current Speed: 182.53968253968
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d
+-----------------------
+Previous Speed: 
+Current Speed: 165.62650024004
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d
+-----------------------
+Previous Speed: 
+Current Speed: 161.46016146016
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d
+-----------------------
+Previous Speed: 
+Current Speed: 148.03690195237
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d
+-----------------------
+Previous Speed: 
+Current Speed: 49.483832437505
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d, h, f, d, s, i, f
+-----------------------
+Previous Speed: 
+Current Speed: 50.342609425255
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d, h, f, d, s, i, f,  
+-----------------------
+Previous Speed: 
+Current Speed: 52.318357203584
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d, h, f, d, s, i, f,  , g, h, k, v, v, k, v, g, j, c
+-----------------------
+Previous Speed: 
+Current Speed: 46.067785455742
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d, h, f, d, s, i, f,  , g, h, k, v, v, k, v, g, j, c,  , b
+-----------------------
+Previous Speed: 
+Current Speed: 63.926940639269
+Speed Difference: 
+Keylogs: h, k, k, h, h, g, f, j, k, b, g, f, d, f, g, i, g, h, o, f, ;, f, d, h, f, d, s, i, f,  , g, h, k, v, v, k, v, g, j, c,  , b, j, k, v, v, h, g, v, k, v, v, f, h, g, j, y, t, c, c, m, h, v
+-----------------------
+Typing Speed: 82.663605051665
+Speed Difference: 
+Keylogs: v, h, j, k, g, v
+-----------------------
+Typing Speed: 110.13215859031
+Speed Difference: 27.468553538644
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k
+-----------------------
+Typing Speed: 91.81799632728
+Speed Difference: 18.314162263028
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k
+-----------------------
+Typing Speed: 113.91251518834
+Speed Difference: 22.094518861055
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k, j, v, c, v, k, d, k, ,, f, v
+-----------------------
+Typing Speed: 40.09623095429
+Speed Difference: 73.816284234045
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k, j, v, c, v, k, d, k, ,, f, v
+-----------------------
+Typing Speed: 61.902082160945
+Speed Difference: 21.805851206655
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k, j, v, c, v, k, d, k, ,, f, v, v, b, k, v, v, v, g, d, h, k, t, k, ,, l, k, h, g, g, r
+-----------------------
+Typing Speed: 10.106307637536
+Speed Difference: 51.79577452341
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k, j, v, c, v, k, d, k, ,, f, v, v, b, k, v, v, v, g, d, h, k, t, k, ,, l, k, h, g, g, r
+-----------------------
+Typing Speed: 11.342798268333
+Speed Difference: 1.2364906307971
+Keylogs: v, h, j, k, g, v, b, h, v, j, k, v, k, v, k, j, v, c, v, k, d, k, ,, f, v, v, b, k, v, v, v, g, d, h, k, t, k, ,, l, k, h, g, g, r, v, b, k, v, g, v
+-----------------------
+Typing Speed: 64.585575888052
+Speed Difference: 
+Keylogs: h, j, k
+-----------------------
+Typing Speed: 109.85238585651
+Speed Difference: 45.266809968454
+Keylogs: h, j, k, g, f, g, h, c, j, c, c, h, j, j, t, y
+-----------------------
+Typing Speed: 96.153846153846
+Speed Difference: 13.698539702659
+Keylogs: h, j, k, g, f, g, h, c, j, c, c, h, j, j, t, y
+-----------------------
+Typing Speed: 89.169608025265
+Speed Difference: 6.9842381285814
+Keylogs: h, j, k, g, f, g, h, c, j, c, c, h, j, j, t, y
+-----------------------
+Typing Speed: 83.116883116883
+Speed Difference: 6.0527249083816
+Keylogs: h, j, k, g, f, g, h, c, j, c, c, h, j, j, t, y
+-----------------------
+Typing Speed: 65.605139069227
+Speed Difference: 17.511744047656
+Keylogs: h, j, k, g, f, g, h, c, j, c, c, h, j, j, t, y
+-----------------------
+Typing Speed: 202.88548241659
+Speed Difference: 
+Keylogs:  , b, n, ,, h, v, j, m, v, ,, g, v, v, m, ,
+-----------------------
+Typing Speed: 183.94458953105
+Speed Difference: 18.940892885537
+Keylogs:  , b, n, ,, h, v, j, m, v, ,, g, v, v, m, ,, h, v, h, j, m, v, v, ,, v, j, v, k
+-----------------------
+Typing Speed: 0
+Speed Difference: 
+Keylogs: 
+-----------------------
+Typing Speed: 87.040618955513
+Speed Difference: 87.040618955513
+Keylogs: b, v, k, v, y, j
+-----------------------
+Typing Speed: 63.135741844967
+Speed Difference: 23.904877110546
+Keylogs: b, v, k, v, y, j
+-----------------------
+Typing Speed: 52.302774952782
+Speed Difference: 10.832966892184
+Keylogs: b, v, k, v, y, j
+-----------------------
+Typing Speed: 77.813802686429
+Speed Difference: 25.511027733647
+Keylogs: b, v, k, v, y, j, g, j, k, v, v, v, k, v
+-----------------------
+Typing Speed: 46.212246245255
+Speed Difference: 31.601556441174
+Keylogs: b, v, k, v, y, j, g, j, k, v, v, v, k, v
+-----------------------
+Typing Speed: 61.170987474512
+Speed Difference: 14.958741229257
+Keylogs: b, v, k, v, y, j, g, j, k, v, v, v, k, v, v, b, j, v, j, v, j
+-----------------------
+Typing Speed: 3.6521527411435
+Speed Difference: 57.518834733369
+Keylogs: b, v, k, v, y, j, g, j, k, v, v, v, k, v, v, b, j, v, j, v, j
+-----------------------
+Typing Speed: 3.6409765908323
+Speed Difference: 0.011176150311277
+Keylogs: b, v, k, v, y, j, g, j, k, v, v, v, k, v, v, b, j, v, j, v, j
+-----------------------
+Typing Speed: 4.3031605279691
+Speed Difference: 0.66218393713686
+Keylogs: b, v, k, v, y, j, g, j, k, v, v, v, k, v, v, b, j, v, j, v, j, v, h, j, c
+-----------------------
+Typing Speed: 0
+Speed Difference: 
+Keylogs: 
+-----------------------
+Typing Speed: 168.19571865443
+Speed Difference: 168.19571865443
+Keylogs: c, g, h, j, j, c, j, f, c, f, g, j, r, c, j, g, c, g, x, j, d, c
+-----------------------
+Typing Speed: 141.41847010928
+Speed Difference: 26.777248545156
+Keylogs: c, g, h, j, j, c, j, f, c, f, g, j, r, c, j, g, c, g, x, j, d, c
+-----------------------
+Typing Speed: 154.56448236999
+Speed Difference: 13.146012260711
+Keylogs: c, g, h, j, j, c, j, f, c, f, g, j, r, c, j, g, c, g, x, j, d, c, c, g, h, c, j, f, g, x, j,  
+-----------------------
+Typing Speed: 140.2176294457
+Speed Difference: 14.346852924287
+Keylogs: c, g, h, j, j, c, j, f, c, f, g, j, r, c, j, g, c, g, x, j, d, c, c, g, h, c, j, f, g, x, j,  
+-----------------------
+Typing Speed: 142.22222222222
+Speed Difference: 
+Keylogs: h, v, h, g, c, m, h, g
+-----------------------
+Typing Speed: 112.5703564728
+Speed Difference: 29.651865749427
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------
+Typing Speed: 9.7455332972388
+Speed Difference: 102.82482317556
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------
+Typing Speed: 9.5642933049947
+Speed Difference: 0.18123999224408
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------
+Typing Speed: 9.4791721522987
+Speed Difference: 0.085121152695988
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------
+Typing Speed: 9.4067231941051
+Speed Difference: 0.072448958193577
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------
+Typing Speed: 9.3120707717379
+Speed Difference: 0.094652422367256
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------
+Typing Speed: 9.255450431921
+Speed Difference: 0.056620339816845
+Keylogs: h, v, h, g, c, m, h, g, j, g, j, v
+-----------------------

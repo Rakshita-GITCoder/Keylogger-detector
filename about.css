@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css2?family=Crimson+Pro);
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'josefin sans',sans-serif;
+    box-sizing: border-box;
+}
+.about{
+    padding: 0px;
+    background: url(background1.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.25)), url(background1.jpg);
+    background-position: center;
+    background-size: cover; 
+}
+.about-text{
+    width: 1050px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h1{
+    color: white;
+    text-shadow: 0 0 10px white;
+    font-size: 70px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.about-text h5{
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+span{
+    color:skyblue;
+}
+.about-text p{
+    color: white;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 17px;
+    margin-bottom: 27px;
+    text-align: left;
+    display: flex;
+}
+
+button{
+    background: white;
+    color: black;
+    text-decoration: none;
+    border: 2px solid skyblue;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: 0.4s;
+}
+button:hover{
+    background: skyblue;
+    border: 2px solid white;
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>Typing Speed Detector</title> 
+    <style> 
+        .error { 
+            color: red; 
+            text-shadow: 0 0 30px rgb(255, 0, 0); 
+        } 
+        .speed-box-container { 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+        } 
+        .speed-box { 
+            width: 200px; 
+            height: 55px; 
+            margin: 25px; 
+            background-color: transparent; 
+            align-items: center; 
+            display: flex; 
+            justify-content: center; 
+            font-size: 30px; 
+            color: rgb(255, 255, 255); 
+            text-shadow: 0 0 20px rgb(255, 255, 255); 
+            box-shadow: 0 0 25px rgb(255, 255, 255); 
+        } 
+        .trykeysequenceBtn { 
+            position: fixed; 
+            bottom: 30px; 
+            right: 30px; 
+            padding: 20px 30px; 
+            background-color: #4CAF50; 
+            color: white; 
+            font-size: 25px; 
+            border: none; 
+            cursor: pointer; 
+            border-radius: 5px; 
+        } 
+    </style> 
+    <link rel="stylesheet" type="text/css" href="style (2).css"> 
+</head> 
+<body> 
+    <h1>Typing Speed Detector</h1> 
+    <p id="message"></p> 
+    <div class="speed-box-container"> 
+        <div class="speed-box" id="previousSpeedBox"></div> 
+        <div class="speed-box" id="currentSpeedBox"></div> 
+    </div> 
+    <p id="pcspeed">Previous Speed &nbsp; Current Speed</p> 
+    <p id="speeds"></p> 
+    <button onclick="checkTypingSpeed()">Check Typing Speed</button> 
+    <button id="removeKeyloggerBtn" onclick="removeKeylogger()" style="display: none;">Remove Keylogger</button> 
+    <button id="trykeysequenceBtn" onclick="trykeysequence()" >Try Key Sequence</button> 
+   
+    <script> 
+        let keylogs = []; 
+        let start_time = Date.now(); 
+        let previous_speed = null; 
+        let previousSpeedBox = document.getElementById('previousSpeedBox'); 
+        let currentSpeedBox = document.getElementById('currentSpeedBox'); 
+        let message = document.getElementById('message'); 
+        let speeds = document.getElementById('speeds'); 
+        let removeKeyloggerBtn = document.getElementById('removeKeyloggerBtn'); 
+        let trykeysequenceBtn = document.getElementById('trykeysequenceBtn'); 
+        function on_press(key) { 
+            keylogs.push(key); 
+        } 
+        function on_release(key) { 
+            // No need for the return statement 
+        } 
+        document.addEventListener("keydown", (event) => { 
+            on_press(event.key); 
+        }); 
+        document.addEventListener("keyup", (event) => { 
+            on_release(event.key); 
+        }); 
+function checkTypingSpeed() { 
+    let previousSpeed = previous_speed; 
+    let currentSpeed = (keylogs.length / ((Date.now() - start_time) / 1000)) * 60; 
+    let speedDifference = previousSpeed !== null ? Math.abs(currentSpeed - previousSpeed) : null; 
+    message.textContent = speedDifference !== null && speedDifference > 50 ? 'Keylogger detected' : 'No keylogger detected'; 
+    message.classList.remove('error', 'success'); 
+    message.classList.add(speedDifference !== null && speedDifference > 50 ? 'error' : 'success'); 
+    speeds.textContent = speedDifference !== null ? `Difference: ${speedDifference.toFixed(2)}` : ''; 
+    currentSpeedBox.textContent = ` ${currentSpeed.toFixed(2)}`; 
+    removeKeyloggerBtn.style.display = speedDifference !== null && speedDifference > 50 ? 'inline-block' : 'none'; 
+    previous_speed = currentSpeed; // Update the previous_speed variable with the currentSpeed 
+    // Save the current typing speed to the server using AJAX or fetch API 
+    fetch('save_typing_speed.php', { 
+        method: 'POST', 
+        headers: { 
+            'Content-Type': 'application/json' 
+        }, 
+        body: JSON.stringify({ 
+            previousSpeed: previousSpeed, 
+            currentSpeed: currentSpeed, 
+            speedDifference: speedDifference, 
+            keylogs: keylogs 
+        }) 
+    }) 
+    .then(response => { 
+        if (response.ok) { 
+            console.log('Typing speed saved successfully'); 
+        } else { 
+            console.log('Error saving typing speed'); 
+        } 
+    }) 
+    .catch(error => { 
+        console.log('Error saving typing speed:', error); 
+    }); 
+} 
+        function removeKeylogger() { 
+            // Perform keylogger removal logic here 
+            // ... 
+            // Redirect to Protection Tactics page 
+            window.location.href = 'Protection_Tactics_Corner.html'; 
+        } 
+        function trykeysequence() { 
+            // Redirect to your custom webpage named "keysequence" 
+            window.location.href = 'aashiindex.html'; 
+        } 
+    </script> 
+</body> 
+</html>

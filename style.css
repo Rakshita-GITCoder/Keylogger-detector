@@ -1,0 +1,74 @@
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+body {
+    padding: 0px;
+    background: url(background1.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.25)), url(background1.jpg);
+    background-position: center;
+    background-size: cover; 
+}
+
+h1 {
+    background: white;
+    background-color: #8d7e8c;
+    animation: fadeIn 2s ease-in-out;
+}
+label{
+    color: white;
+    background: transparent;
+}
+input {
+    background-color:white;
+    border: none;
+    color: #d6d4e0;
+    padding: 10px;
+    width: 200px;
+    transition: 0.3s;
+}
+
+input:focus {
+    background-color: white;
+    outline: none;
+}
+
+button {
+    background-color: #8d7e8c;
+    border: none;
+    color: #d6d4e0;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color:black;
+}
+.button {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    border: 1px solid white;
+    color: white;
+    padding: 10px 30px;
+    font-weight: bold;
+    animation: fadeIn 2s ease-in-out;
+    background-color: #8d7e8c;
+
+}
